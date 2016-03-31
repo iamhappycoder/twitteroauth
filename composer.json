@@ -1,5 +1,5 @@
 {       
-    "name": "abraham/twitteroauth", 
+    "name": "ianhappycoder/twitteroauth",
     "type": "library",
     "description": "The first PHP Library to support OAuth 1.0A for Twitter's REST API.",
     "keywords": ["twitter", "api", "oauth"],
